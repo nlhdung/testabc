@@ -22,8 +22,13 @@ class ViewController: UIViewController {
         print("bar")
     }
     
+<<<<<<< HEAD
     func bar3(){
         print("bar")
+=======
+    func bar2(){
+        
+>>>>>>> d0525ad578da180fe07d3767de0631c686a138e9
     }
 
     override func didReceiveMemoryWarning() {
